@@ -1,0 +1,2 @@
+# uploadfile
+JS前端压缩处理图片并利用XMLHttpRequest上传图片
